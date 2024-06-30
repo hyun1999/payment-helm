@@ -102,7 +102,7 @@ env:
 - name: "redis"
   value: "payment-redis"
 - name: "kafka"
-  value: "34.170.191.69"
+  value: "35.184.196.158"
 
 autoscaling:
   enabled: false
