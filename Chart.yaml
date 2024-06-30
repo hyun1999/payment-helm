@@ -22,17 +22,3 @@ version: 0.1.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
-dependencies:
-  - name: server-account
-    version: 0.0.1
-    repository: "file://./server-account"
-  - name: server-win
-    version: 0.0.1
-    repository: "file://./server-win"
-  - name: mysql-account
-    version: 0.0.1
-    repository: "file://./mysql-account"
-  - name: redis
-    version: 0.0.1
-    repository: "file://./redis"
-

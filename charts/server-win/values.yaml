@@ -91,10 +91,10 @@ env:
   value: "local"
 - name: "SPRING_DATASOURCE_URL"
   value: "jdbc:mysql://payment-mysql-account:3306/payment?serverTimezone=Asia/Seoul"
-- name: "SPRING_DATASOURCE_PASSWORD"
-  value: "1234"
 - name: "SPRING_DATASOURCE_USERNAME"
   value: "root"
+- name: "SPRING_DATASOURCE_PASSWORD"
+  value: "1234"
 - name: "SPRING_JPA_HIBERNATE_DDL_AUTO"
   value: "create"
 
